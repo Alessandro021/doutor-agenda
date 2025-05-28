@@ -12,5 +12,6 @@
   ],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
-  }
+  },
+  "cSpell.words": ["caracteres", "inválido", "menos", "obrigatório", "Senha"]
 }
