@@ -13,5 +13,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "cSpell.words": ["caracteres", "inválido", "menos", "obrigatório", "Senha"]
+  "cSpell.words": ["caracteres", "inválido", "menos", "obrigatório", "Senha"],
+  "workbench.tree.indent": 12
 }
